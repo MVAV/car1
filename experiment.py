@@ -73,9 +73,8 @@ This is the only thing you should need to change
 
 def runExperiment():
     forward(1)
-    reverse(1)
+    reverse(2)
     leftWheel(FORWARD, 1)
-    rightWheel(BACKWARD, 5)
 
 
 while 1:
