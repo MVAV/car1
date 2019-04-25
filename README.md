@@ -1,4 +1,4 @@
-# car1
+# car
 
 ## Setup
 - run this command in your terminal: export car_ip_address=192.168.0.XXX   with whatever IP address corresponds to your car
